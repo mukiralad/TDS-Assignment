@@ -1,11 +1,11 @@
 import streamlit as st
 
-st.title("Subtraction Streamlit Assignment")
+st.title("Division Streamlit Assignment")
 
-st.write("For determining the subtraction result")
+st.write("For determining the Division result")
 
-a = st.number_input("Enter the number you want to subtract from")
+a = st.number_input("Enter the number you want to Divide from")
 
-b = st.number_input("Enter the number you want to subtract")
+b = st.number_input("Enter the number you want to Divide")
 
-st.write(a-b)
+st.write(a/b)
