@@ -8,4 +8,4 @@ a = st.number_input("Enter the number you want to Divide from")
 
 b = st.number_input("Enter the number you want to Divide")
 
-st.write(a/b)
+st.write(a//b)
